@@ -13,7 +13,7 @@ print(data)
 
 #Printing first row of data
 print(data[0])
-
+#aaaaaaaaaaaaaa
 image-1=plt.plot(data)
 
 #Plotting data
